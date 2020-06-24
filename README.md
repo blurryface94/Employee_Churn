@@ -1,4 +1,5 @@
-#Employee Churn
+# Employee Churn
+
 Employee retention is very important as acquiring new employees can be quite expensive and time consuming. Therefore, understanding why employees leave is very important for the business to maximize efficiency and reduce training cost.
 
 The objective of this analysis is to come up with best possible classification which could be used to predict if a certain employee is going to leave.
